@@ -1,0 +1,21 @@
+{
+  "name": "generator-d3",
+  "version": "0.1.0",
+  "description": "A d3 generator for yeoman",
+  "files": [
+    "generators/app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "repository": "shawnhuang/generator-d3",
+  "dependencies": {
+    "yeoman-generator": "^0.20.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ShawnHuang",
+  "license": "MIT"
+}
